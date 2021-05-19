@@ -4,6 +4,8 @@ Vagrant is a "scripting" language for hypervisors.
 
 The organization of the Vagrantfiles is as follows:
 
+NOTYET, needs to be updated.
+
  * DistroName (eg ./ubuntu)
  ** DistroVersion (eg ./ubuntu/18.04)
  *** DistroType (eg ./ubuntu/18.04/desktop)
