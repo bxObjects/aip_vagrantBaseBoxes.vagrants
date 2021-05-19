@@ -206,7 +206,7 @@
     "http_directory": "{{template_dir}}/http",
     "http_proxy": "{{env `http_proxy`}}",
     "https_proxy": "{{env `https_proxy`}}",
-    "iso_checksum": "11651ae8a9ae602ebf7dbffafc0d515e689d4cdd5b9bdb137e5998cb4809e551",
+    "iso_checksum": "67a54cf4ff4cb52b023ea544d3defabf7a72035f05aca5774e2afd619b97ce2b",
     "iso_name": "debian-testing-amd64-netinst.iso",
     "memory": "1024",
     "mirror": "http://cdimage.debian.org/cdimage/weekly-builds",

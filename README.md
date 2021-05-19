@@ -11,6 +11,3 @@ NOTYET, needs to be updated.
  *** DistroType (eg ./ubuntu/18.04/desktop)
  **** Usage/Purpose (eg ./ubuntu/18.04/desktop/bx-distro)
  ***** Vagrant File (eg ./ubuntu/18.04/desktop/bx-distro/Vagrantfile)
-
-
- 
